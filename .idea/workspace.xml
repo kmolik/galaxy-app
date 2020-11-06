@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="028c44ab-9a39-4968-a871-b46c6546f0ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/galaxy-front/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/galaxy-front/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galaxy-front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/galaxy-front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galaxy-front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/galaxy-front/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galaxy-front/src/app/components/pilot-room/crew-room.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galaxy-front/src/app/components/pilot-room/crew-room.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galaxy-front/src/app/components/pilot-room/crew-room.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galaxy-front/src/app/shared/models/pilots.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/galaxy-front/src/app/shared/services/pilots.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galaxy-front/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/galaxy-front/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/galaxy-front/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/galaxy-front/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galaxy-front/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/galaxy-front/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galaxy-front/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/galaxy-front/src/styles.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +32,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\konra\Desktop\Projects\galaxy-app\galaxy-front\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,7 +43,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604332907098</updated>
-      <workItem from="1604332908292" duration="1566000" />
+      <workItem from="1604332908292" duration="1793000" />
+      <workItem from="1604564211414" duration="2282000" />
+      <workItem from="1604567357428" duration="65000" />
     </task>
     <servers />
   </component>
